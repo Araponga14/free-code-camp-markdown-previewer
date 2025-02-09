@@ -1,0 +1,24 @@
+
+#preview-container {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+    margin: 20px;
+}
+
+
+#preview {
+    background: #fff;
+    color: black;
+    height: 760px;
+    width: 95%;
+    border: 2px solid rgb(28, 58, 29);
+    border-radius: 5px;
+    padding: 20px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}

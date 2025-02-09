@@ -1,0 +1,17 @@
+
+
+#root {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(
+        270deg,
+        rgb(118, 35, 185),
+        rgb(86, 21, 170),
+        rgb(86, 21, 139)
+        );   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
